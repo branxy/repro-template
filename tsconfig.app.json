@@ -22,7 +22,10 @@
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noUncheckedSideEffectImports": true,
+
+    // Personal, from https://www.totaltypescript.com/tsconfig-cheat-sheet
+    "isolatedModules": true
   },
   "include": ["src"]
 }

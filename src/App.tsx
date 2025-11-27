@@ -1,7 +1,5 @@
-import "./App.css"
-
 function App() {
-  return null
+  return <p>Repro</p>
 }
 
 export default App
